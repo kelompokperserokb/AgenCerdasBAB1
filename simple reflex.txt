@@ -1,0 +1,12 @@
+agent simple reflex agent 
+smart traffic light 
+Smart traffic light adalah traffic light dengan kecerdasaan buatan mampu mengatur waktu dari warna traffic light tersebut. Ketika jalanan lengang tidak ada kendaraan yang akan lewat maka traffic light akan automatis mengatur ke warna hijau sehingga tidak ada waktu tersia siakan pengendara ketika jalanan lengang.
+
+
+robot line follower
+Robot line follower merupakan sebuah robot dengan cara kerja berjalan di garis berwarna hitam. Mekanisme gerak dari robot line follower adalah ketika sensor mendeteksi warna hitam dari sebuah garis maka sensor akan mengirim data sehingga akan dilanjutkan ke motor dan akan bergerak mengikuti garis hitam tersebut, lain jika sensor menangkap warna lain maka robot tidak akan mampu bergerak seuai arah.
+dalam hal ini jika sensor menangkap warna hitam makan robot akan bergerak mengikuti garis, jika sensor menangkap warna lain maka tidak akan bergerak teratur
+ 
+Automatic door
+Automatic door merupakan sebuah pintu otomatis dengan sensor gerak, mekanisme kerja nya adalah jika dalam jarak 30cm - 1m terdapat benda atau sensuatu maka sensor akan menerima data tersebut kemudian dilanjut ke motor, sehingga jika kita berdiri sekitar 3cm - 1m maka pintu akan membuka sendiri begitu pula ketika kita meninggalkan pintu dan berpindah sejauh 30cm - 1m maka pintu akan otomatis tertutup.
+Jika sensor menangkap benda dalam jarak tertentu maka pintu terbuka jika sensor mendeteksi benda menjauh tidak maka pintu menutup. jika sensor tidak mendeteksi apa pun pun pintu tetap pada keadaan semula
