@@ -1,4 +1,4 @@
-# KB-AgenCerdasBAB1
+# KB-AgenCerdasBAB2
 Tugas Praktikum Kecerdasan Buatan
 
 Kelompok 1 
