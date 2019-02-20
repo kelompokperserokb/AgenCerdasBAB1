@@ -6,4 +6,4 @@ Kelompok 1
 - Bayu Reza Gunawan
 - Gusti Rahman Pariska Ajitama
 - Muhammad Yusuf Azari
-- Robertus Dwi Ari Utomo
+- Robertus Dwi Ari Utomo [Programmer]
