@@ -1,4 +1,4 @@
-# KB-AgenCerdasBAB1
+# KB-AgenCerdasBAB2
 Tugas Praktikum Kecerdasan Buatan
 
 Kelompok 1 
@@ -6,4 +6,4 @@ Kelompok 1
 - Bayu Reza Gunawan
 - Gusti Rahman Pariska Ajitama
 - Muhammad Yusuf Azari
-- Robertus Dwi Ari Utomo
+- Robertus Dwi Ari Utomo [Programmer]
