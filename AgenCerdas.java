@@ -3,12 +3,11 @@ public class AgenCerdas {
     AgenCerdas(int size){
         lingkungan = new String[size][3];
     }
-    public void setKondisi(int i, String Nama,String
+    public void setKondisi(int i, String name,String
             location,String status){
-        lingkungan[i-1][0]=Nama;
+        lingkungan[i-1][0]=name;
         lingkungan[i-1][1]=location;
         lingkungan[i-1][2]=status;
-        System.out.println();
     }
     public void vacumm (int i,String location, String status){
         if ("kotor".equals(status.toLowerCase())){
